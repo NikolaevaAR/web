@@ -18,6 +18,10 @@
 
 Отчеты о дефектах в формате xlsx
 - [@Решение](https://github.com/NikolaevaAR/web/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B5.xlsx)
- 
+
+## Задание 24
+Перехват трафика с настольного компьютера с помощью Charles Proxy
+- [@Открыть в github](https://github.com/NikolaevaAR/web/blob/main/%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%B2%D0%B0%D1%82%20%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.mp4)
+- [@Открыть в google disk](https://drive.google.com/file/d/1b87ocB98eKHUYWo5uNq_Iotv__Xpzh1P/view?usp=sharing)
 
 
