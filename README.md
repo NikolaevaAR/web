@@ -11,24 +11,15 @@
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Чек-лист](https://docs.google.com/spreadsheets/d/1KciGpOBABESt9LwOlYmmRTzdWTx-Nj1z1S1INiBTboY/edit?usp=sharing) для тестирования регистрации, авторизации, каталога, корзины и истории заказов
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Тест-кейсы](https://drive.google.com/file/d/1bvjTcjOUm0AZ9OWZKLLog1Pv8gEJladA/view?usp=sharing) для тестирования регистрации, авторизации, каталога, корзины и истории заказов
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Тест-кейсы](https://github.com/NikolaevaAR/web/blob/main/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%81%D0%B5%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.pdf) для тестирования регистрации, авторизации, каталога, корзины и истории заказов
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Отчеты о дефектах](https://docs.google.com/spreadsheets/d/1cV_VqNrLQ3Iq9YDeUA99YsZT_osuQjeCE8CjxeZCux4/edit?usp=sharing), сформированные в YouTrack
 
 
+Также можете ознакомиться с результатами тестового прогона из QASE
 
 
-
-## Задание 10
-Тест-план для приложения "Интернет-магазин"
-- [@Решение](https://docs.google.com/spreadsheets/d/1nW8e5WOhzZizjrDxYJv_n4jwxKM5fJq-LaKYtWIh0vE/edit?usp=sharing)
-## Задание 11
-Чек-лист для тестирования всего приложения "Интернет-магазин"
-- [@Решение](https://docs.google.com/spreadsheets/d/1Encdwvh5uGrdvFM48lNmcgrNIXkxCs5kW2wGyDSlym8/edit?usp=sharing)
-
-Тест-кейсы для тестирования всего приложения в QASE
-- [@Решение](https://app.qase.io/project/G9?author=287&suite=174&tab=properties&previewMode=side)
- 
-Тест-кейсы для тестирования всего приложения в формате PDF
-- [@Открыть](https://github.com/NikolaevaAR/web/blob/main/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%81%D0%B5%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
   
 ## Задание 13
 Результаты тестового прогона из QASE в формате PDF
