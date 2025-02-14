@@ -1,4 +1,22 @@
 # Тестирование веб-приложений
+# <img width="40" height="40" src="https://img.icons8.com/nolan/96/terms-and-conditions.png" alt="terms-and-conditions"/> Тестовая документация
+В процессе обучения я протестировала учебный проект - интернет-магазин [demoshopping.ru](https://qa.demoshopping.ru/). 
+
+В ходе тестирования был проведен [анализ требований и макета](https://docs.google.com/spreadsheets/d/1AWmqBFU4i7uSIB__kxB23_H77kUk-Cy7b0qUGg14ULw/edit?usp=sharing), созданных для этого приложения, и подготовлена следующая тестовая документация:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Тест-план](https://docs.google.com/spreadsheets/d/1g9FF8k1fny1X_Kk6vj2HiBU7Auntn2LdtZs-od5P7Rg/edit?usp=sharing), разработанный на основе [описания приложения](https://docs.google.com/document/d/1rTRjPdvvMNsx64m9p_IrM2gAe0uFk7bQxMRniyzaDU0/edit?usp=sharing). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Чек-лист](https://docs.google.com/spreadsheets/d/1KciGpOBABESt9LwOlYmmRTzdWTx-Nj1z1S1INiBTboY/edit?usp=sharing) для тестирования регистрации, авторизации, каталога, корзины и истории заказов
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Тест-кейсы](https://drive.google.com/file/d/1bvjTcjOUm0AZ9OWZKLLog1Pv8gEJladA/view?usp=sharing) для тестирования регистрации, авторизации, каталога, корзины и истории заказов
+
+
+
+
+
 ## Задание 10
 Тест-план для приложения "Интернет-магазин"
 - [@Решение](https://docs.google.com/spreadsheets/d/1nW8e5WOhzZizjrDxYJv_n4jwxKM5fJq-LaKYtWIh0vE/edit?usp=sharing)
