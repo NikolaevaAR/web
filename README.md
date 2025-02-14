@@ -1,8 +1,7 @@
-# Тестирование веб-приложений
-# <img width="40" height="40" src="https://img.icons8.com/nolan/96/terms-and-conditions.png" alt="terms-and-conditions"/> Тестовая документация
+# <img width="40" height="40" src="https://img.icons8.com/nolan/96/laptop.png" alt="laptop"/>  Тестирование веб-приложений
 В процессе обучения я протестировала учебный проект - интернет-магазин [demoshopping.ru](https://qa.demoshopping.ru/). 
 
-В ходе тестирования был проведен [анализ требований и макета](https://docs.google.com/spreadsheets/d/1AWmqBFU4i7uSIB__kxB23_H77kUk-Cy7b0qUGg14ULw/edit?usp=sharing), созданных для этого приложения, и подготовлена следующая тестовая документация:
+В ходе тестирования был проведен [анализ требований и макета](https://docs.google.com/spreadsheets/d/1AWmqBFU4i7uSIB__kxB23_H77kUk-Cy7b0qUGg14ULw/edit?usp=sharing), созданных для этого приложения, и разработана следующая тестовая документация:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Тест-план](https://docs.google.com/spreadsheets/d/1g9FF8k1fny1X_Kk6vj2HiBU7Auntn2LdtZs-od5P7Rg/edit?usp=sharing), разработанный на основе [описания приложения](https://docs.google.com/document/d/1rTRjPdvvMNsx64m9p_IrM2gAe0uFk7bQxMRniyzaDU0/edit?usp=sharing). 
@@ -17,20 +16,4 @@
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/google-docs.png" alt="google-docs"/> [Отчеты о дефектах](https://docs.google.com/spreadsheets/d/1cV_VqNrLQ3Iq9YDeUA99YsZT_osuQjeCE8CjxeZCux4/edit?usp=sharing), сформированные в YouTrack
 
 
-Также можете ознакомиться с результатами тестового прогона из QASE
-
-
-  
-## Задание 13
-Результаты тестового прогона из QASE в формате PDF
-- [@Решение](https://github.com/NikolaevaAR/web/blob/main/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%BD%D0%B0.pdf)
-
-Отчеты о дефектах в формате xlsx
-- [@Решение](https://github.com/NikolaevaAR/web/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B5.xlsx)
-
-## Задание 24
-Перехват трафика с настольного компьютера с помощью Charles Proxy
-- [@Открыть в github](https://github.com/NikolaevaAR/web/blob/main/%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%B2%D0%B0%D1%82%20%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.mp4)
-- [@Открыть в google disk](https://drive.google.com/file/d/1b87ocB98eKHUYWo5uNq_Iotv__Xpzh1P/view?usp=sharing)
-
-
+Также Вы можете ознакомиться с [результатами тестового прогона](https://github.com/NikolaevaAR/web/blob/main/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%BD%D0%B0%20%D0%B2%20QASE.pdf) из QASE.
